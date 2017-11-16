@@ -1,0 +1,13 @@
+body {
+    background: #000;
+    color: #fff;
+    font-family: monospace;
+}
+
+input, select, option, button {
+    font-family: monospace;
+}
+
+select {
+    max-width: 300px;
+}
